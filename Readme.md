@@ -18,3 +18,7 @@
 4. Class và OOP
 5. Generic
 6. Dự án thực hành TypeScript
+
+## Tài liệu
+- [Tài liệu word](https://docs.google.com/document/d/199oPiyrWHNvVEda0w3gLHqVkYpzpBww0zBYnTnLOlFc/edit?tab=t.61mqx9t3bvvk)
+- [Video](https://www.udemy.com/course/hoidanit-typescript-basic-beginner)

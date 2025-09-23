@@ -47,3 +47,6 @@ console.log(typeof("10")); //string
 > != và !== tương tự
 
 - c. Toán tử logic (|| &&)
+
+## 5. Template String
+- *Template String* (còn gọi là Template Literals) là cách khai báo chuỗi bằng dấu backtick

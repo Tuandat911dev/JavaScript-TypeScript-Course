@@ -30,3 +30,8 @@ const country = "Vietnam";
 console.log(typeof(10)); //number
 console.log(typeof("10")); //string
 ```
+
+## 3. Kiều dữ liệu tham chiếu (Objet Data types)
+- Kiều dữ liệu tham chiếu dữ liệu không lưu trực tiếp trong bộ nhớ stack, nó chỉ lưu địa chỉ tham chiếu đến đối tượng thực sự đang được nằm trong bộ nhớ heap.
+
+- Các kiểu dữ liêu object trong js: Object, Array, Function, Date, RegExp, Map, Set

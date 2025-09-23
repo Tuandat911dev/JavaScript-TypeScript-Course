@@ -35,3 +35,15 @@ console.log(typeof("10")); //string
 - Kiều dữ liệu tham chiếu dữ liệu không lưu trực tiếp trong bộ nhớ stack, nó chỉ lưu địa chỉ tham chiếu đến đối tượng thực sự đang được nằm trong bộ nhớ heap.
 
 - Các kiểu dữ liêu object trong js: Object, Array, Function, Date, RegExp, Map, Set
+
+## 4. Toán tử trong JS
+- a. Toán tử số học (Arithmetic Operators)
+> b = a++ : gán a cho b xong mới tăng lên 1 đơn vị
+> b = ++a : tăng a lên một đơn vị sau đó mới gán cho b
+
+- b. Toán tử so sánh (Comparison Operators)
+> ==: so sánh bằng (lỏng) - chỉ so sánh giá trị
+> ===: so sánh bằng (chặt) - so sánh cả giá trị và kiểu dữ liệu
+> != và !== tương tự
+
+- c. Toán tử logic (|| &&)

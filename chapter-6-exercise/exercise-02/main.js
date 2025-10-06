@@ -6,7 +6,9 @@ const resetBtn = document.querySelector("button#reset-btn");
 const tbody = document.querySelector("tbody#table-body");
 
 // Show data
-showData = async () => {
+
+
+const showData = async () => {
     try {
         const rawResponse = await fetch("http://localhost:8000/blogs");
         const blogs = await rawResponse.json();
